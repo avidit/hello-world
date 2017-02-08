@@ -1,5 +1,5 @@
 /*
-Compilation:	make hello_world
+Compilation:    make hello_world
 Execution:		./hello_world
 */
 
@@ -7,6 +7,6 @@ Execution:		./hello_world
 
 int main(int argc, char *argv[])
 {
-    printf("Hello world.");
+	printf("Hello world");
     return 0;
 }
