@@ -1,5 +1,4 @@
 /*
-Execution: 	node hello_world.js
+Execution:  node hello_world.js
 */
-
-console.log("Hello World");
+console.log("Hello world");

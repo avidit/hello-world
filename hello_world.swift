@@ -1,7 +1,7 @@
 /*
-Execution:	xcrun swift hello_world.swift
+Execution:  xcrun swift hello_world.swift
 */
 
 import Foundation
 
-print("Hello World.")
+print("Hello world")

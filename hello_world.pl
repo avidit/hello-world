@@ -1,5 +1,5 @@
 #
-# Execution:  perl hello_world.pl
+# Execution:    perl hello_world.pl
 #
 
-print "Hello World\n";
+print "Hello world\n";

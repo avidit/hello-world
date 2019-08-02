@@ -1,5 +1,5 @@
 #
-# Execution:	ruby hello_world.rb
+# Execution:    ruby hello_world.rb
 #
 
 puts 'Hello World'

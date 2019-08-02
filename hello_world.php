@@ -1,7 +1,7 @@
 <?php 
 /*
-Execution:	php hello_world.php
+Execution:  php hello_world.php
 */
 
-echo "Hello World";
+echo "Hello world";
 ?>

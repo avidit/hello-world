@@ -1,5 +1,5 @@
 /*
-Execution: 	groovy hello_world.groovy
+Execution:  groovy hello_world.groovy
 */
 
 println 'Hello world'
